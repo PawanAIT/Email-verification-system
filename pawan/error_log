@@ -1,0 +1,9 @@
+[18-Feb-2016 20:30:03 UTC] PHP Fatal error:  Call to undefined function mysqli_num_row() in /home/sunildhillon/public_html/pawan/index.php on line 16
+[18-Feb-2016 20:32:41 UTC] PHP Fatal error:  Call to undefined function mysqli_num_row() in /home/sunildhillon/public_html/pawan/index.php on line 16
+[18-Feb-2016 20:35:20 UTC] PHP Fatal error:  Call to undefined function mysqli_num_row() in /home/sunildhillon/public_html/pawan/index.php on line 16
+[19-Feb-2016 11:01:55 UTC] PHP Fatal error:  Call to undefined function mysqli_num_row() in /home/sunildhillon/public_html/pawan/index.php on line 16
+[19-Feb-2016 11:55:50 UTC] PHP Fatal error:  Cannot use object of type mysqli_result as array in /home/sunildhillon/public_html/pawan/register.php on line 34
+[19-Feb-2016 12:06:26 UTC] PHP Fatal error:  Cannot use object of type mysqli_result as array in /home/sunildhillon/public_html/pawan/register.php on line 34
+[19-Feb-2016 12:08:44 UTC] PHP Fatal error:  Cannot use object of type mysqli_result as array in /home/sunildhillon/public_html/pawan/register.php on line 34
+[19-Feb-2016 12:15:12 UTC] PHP Fatal error:  Cannot use object of type mysqli_result as array in /home/sunildhillon/public_html/pawan/register.php on line 34
+[19-Feb-2016 12:17:48 UTC] PHP Fatal error:  Cannot use object of type mysqli_result as array in /home/sunildhillon/public_html/pawan/register.php on line 34
